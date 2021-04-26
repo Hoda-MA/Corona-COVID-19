@@ -22,6 +22,9 @@ Additionally, I have plotted the death-rate for the top 10 countries of the list
 
 ![download (1)](https://user-images.githubusercontent.com/64262003/116142325-10362f80-a6da-11eb-90f0-f7a902238483.png)
 
+A LM Plot helps us to understand the correlation of data. Here, the recovery-rate has been plotted vs. death-rate. We observe that there is no relation between them, according to the plot below:
+![download (2)](https://user-images.githubusercontent.com/64262003/116142917-c0a43380-a6da-11eb-90bd-2fec337a4a32.png)
+
 If you are interested, you may read more about the project directly on the notebook file. The time series analysis of corona will be studied in a seperate project.
 
 
